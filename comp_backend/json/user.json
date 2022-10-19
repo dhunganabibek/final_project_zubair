@@ -1,0 +1,20 @@
+{
+    "name": {
+        "firstName": "Hasan",
+        "lastName": "Ali"
+    },
+    "contact": "8010628300",
+    "address": {
+        "addressLine1": "1529, Verona tower",
+        "locality": "Mahagun Mascot",
+        "sector": "Crossing Republic",
+        "city": "Ghaziabad",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pin": "201016"
+    },
+    "email": "",
+    "password": "zubair",
+    "userType": 4
+
+}

@@ -1,0 +1,1 @@
+export const LOGIN_MENU_CLICKED_VALUE: string = "LOGIN_MENU_CLICKED_VALUE";
